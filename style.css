@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(1, 12, 20);
+}
+.nav{
+
+    text-align: right;
+}
+.nav-link{
+    margin: 20px;
+    color: #e8eaed;
+}
+
+#search{
+    margin-top: 20px;
+    text-align: center;
+}
+#google{
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+}
+.G-input {
+    font-family: Google Sans, Arial, sans-serif;
+    line-height: 18px;
+    border-bottom: 8px solid transparent;
+    padding-top: 11px;
+    overflow-x: hidden;
+    width: 500px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.B-input{
+    background-color: #3f4454;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: #e8eaed;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 11px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+#Advansed{
+    background-color: #161616;
+    font-family: Arial, sans-serif;
+}
+#adsearch{
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+#line{
+    border-bottom: 1px solid #000000;
+}
+#findpage{
+    font-size: 16px;
+    color: #e8eaed;
+}
+#form{
+    margin: 50px;
+}
+.r-input{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.left-side{
+    width: 200px;
+    color: #e8eaed;
+    font-size: 13px;
+}
+.form-control{
+    width: 500px;
+    height: 20px;
+}
+.btn-primary{
+    background: #2b66c4;
+    border-color: #8ab4f8;
+    color: #ffffff;
+}
+.btn-div{
+    display: flex;
+    margin-top: 20px;
+    justify-content: end;
+    width: 700px;
+}
